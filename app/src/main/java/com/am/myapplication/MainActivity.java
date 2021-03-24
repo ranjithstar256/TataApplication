@@ -13,6 +13,8 @@ import com.daimajia.numberprogressbar.OnProgressBarListener;
 import java.util.Timer;
 import java.util.TimerTask;
 
+// this is from Github site 
+
 public class MainActivity extends AppCompatActivity implements OnProgressBarListener {
     private NumberProgressBar bnp;
     private Timer timer;
